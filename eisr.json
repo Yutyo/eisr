@@ -40,6 +40,12 @@
       "id": "007",
       "title": "The Coriolis Effect",
       "description": "freely moving phenomenons like floating water and hurricane winds are deflecting to the right on the north of the equator, while its reverse on the south of it."
+    },
+
+    {
+      "id": "008",
+      "title": "Position of Stars",
+      "description": "the stars on the sky look reverse in north and south latitudes."
     }
   ] 
 }
