@@ -3,37 +3,37 @@
     {
       "id": "01",
       "title": "The Horizon",
-      "description": "There is horizon, which is an apparent line that separates earth from sky."
+      "description": "there is horizon, which is an apparent line that separates earth from sky."
     },
     
     {
       "id": "02",
       "title": "The Shadow",
-      "description": "Shadow falls in different sides of the earth are of different angle, from which its possible to measure the curvature of the globe."
+      "description": "shadow falls in different sides of the earth are of different angle, from which its possible to measure the curvature of the globe."
     },
     
     {
       "id": "03",
       "title": "Other Planets and Stars",
-      "description": "All other planets and stars in visible space are round."
+      "description": "all other planets and stars in visible space are round."
     },
 
     {
       "id": "04",
       "title": "Timezones",
-      "description": "The time is different at different places on earth."
+      "description": "the time is different at different places on earth."
     },
 
     {
       "id": "05",
       "title": "Non-Euclidean Geometry",
-      "description": "The geometry based on plane doesn't apply on big scale due to roundness of earth."
+      "description": "the geometry based on plane doesn't apply on big scale due to roundness of earth."
     },
    
     {
       "id": "06",
       "title": "Lunar Eclipse",
-      "description": "When a lunar eclipse occurs, its visible on the moon that the shadow of earth is curved."
+      "description": "when a lunar eclipse occurs, its visible on the moon that the shadow of earth is curved."
     }
   ] 
 }
