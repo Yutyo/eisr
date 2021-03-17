@@ -27,7 +27,13 @@
     {
       "id": "05",
       "title": "Non-Euclidean Geometry",
-      "description": "The geometry based on plane doesn't apply on big scale due to roundness of earth"
+      "description": "The geometry based on plane doesn't apply on big scale due to roundness of earth."
+    },
+   
+    {
+      "id": "06",
+      "title": "Lunar Eclipse",
+      "description": "When a lunar eclipse occurs, its visible on the moon that the shadow of earth is curved."
     }
   ] 
 }
