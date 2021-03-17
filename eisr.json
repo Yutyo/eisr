@@ -34,6 +34,12 @@
       "id": "06",
       "title": "Lunar Eclipse",
       "description": "when a lunar eclipse occurs, its visible on the moon that the shadow of earth is curved."
+    },
+
+    {
+      "id": "07",
+      "title": "The Coriolis Effect",
+      "description": "freely moving phenomenons like floating water and hurricane winds are deflecting to the right on the north of the equator, while its reverse on the south of it."
     }
   ] 
 }
