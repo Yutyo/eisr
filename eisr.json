@@ -52,6 +52,12 @@
       "id": "009",
       "title": "Increasing Sight by Elevation",
       "description": "You can see farther if you go higher. You'd be able to see the same distance no matter your elevation is if the Earth was flat."
+    },
+
+    {
+      "id": "010",
+      "title": "Real Life Footage",
+      "description": "Many different space agencies worldwide took photos of earth independent from each other."
     }
   ] 
 }
