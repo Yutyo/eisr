@@ -1,0 +1,15 @@
+{
+  "proof": [
+    {
+      "id": "01",
+      "title": "The Horizon",
+      "description": "There is horizon, which is an apparent line that separates earth from sky."
+    },
+    
+    {
+      "id": "02",
+      "title": "The Shadow",
+      "description": "Shadow falls in different sides of the earth are of different angle, from which its possible to measure the curvature of the globe."
+    }
+  ] 
+}
