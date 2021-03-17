@@ -10,6 +10,24 @@
       "id": "02",
       "title": "The Shadow",
       "description": "Shadow falls in different sides of the earth are of different angle, from which its possible to measure the curvature of the globe."
+    },
+    
+    {
+      "id": "03",
+      "title": "Other Planets and Stars",
+      "description": "All other planets and stars in visible space are round."
+    },
+
+    {
+      "id": "04",
+      "title": "Timezones",
+      "description": "The time is different at different places on earth."
+    },
+
+    {
+      "id": "05",
+      "title": "Non-Euclidean Geometry",
+      "description": "The geometry based on plane doesn't apply on big scale due to roundness of earth"
     }
   ] 
 }
