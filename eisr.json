@@ -110,6 +110,13 @@
       "title": "The Grid Distortion",
       "description": "Flat Earth map are distorted from focus to extremities of the plane depending on where is based for creation of the map, while there is no distortion problem on the globe model.",
       "source": "https://en.wikipedia.org/wiki/Spherical_Earth#Grid_distortion_on_a_spherical_surface"
+    },
+
+    {
+      "id": "017",
+      "title": "The Atmospheric Refraction",
+      "description": "Twinkling or scintillation occurs on any object (Moon or Sun) as they rise or set over the atmosphere, which is due to curvature of Earth.",
+      "source": "https://en.wikipedia.org/wiki/Spherical_Earth#Grid_distortion_on_a_spherical_surface"
     }
   ] 
 }
