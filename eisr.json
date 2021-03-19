@@ -93,8 +93,15 @@
 
     {
       "id": "014",
-      "title": "Seasons",
+      "title": "The Seasons",
       "description": "temperature changes on earth called seasons happen due to change of Earth's distance to sun, which is a result of Elliptical Earth Orbit, which requires globe Earth.",
+      "source": "https://en.wikipedia.org/wiki/Season#Elliptical_Earth_orbit"
+    },
+
+    {
+      "id": "015",
+      "title": "The Elliptical Orbit",
+      "description": "the Earth is on an elliptical orbit which can be justified with laws of Keppler and many phenomeons like seasons, different timezones etc., that are only possible with the globe Earth model.",
       "source": "https://en.wikipedia.org/wiki/Season#Elliptical_Earth_orbit"
     }
   ] 
