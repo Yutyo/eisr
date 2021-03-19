@@ -102,7 +102,14 @@
       "id": "015",
       "title": "The Elliptical Orbit",
       "description": "the Earth is on an elliptical orbit which can be justified with laws of Keppler and many phenomeons like seasons, different timezones etc., that are only possible with the globe Earth model.",
-      "source": "https://en.wikipedia.org/wiki/Season#Elliptical_Earth_orbit"
+      "source": "https://en.wikipedia.org/wiki/Elliptic_orbit"
+    },
+
+    {
+      "id": "016",
+      "title": "The Grid Distortion",
+      "description": "Flat Earth map are distorted from focus to extremities of the plane depending on where is based for creation of the map, while there is no distortion problem on the globe model.",
+      "source": "https://en.wikipedia.org/wiki/Spherical_Earth#Grid_distortion_on_a_spherical_surface"
     }
   ] 
 }
