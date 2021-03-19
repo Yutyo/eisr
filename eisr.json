@@ -75,6 +75,13 @@
       "title": "Face of The Moon",
       "description": "only one face of the moon is visible to every part of the earth, which is only explainable with the globe model.",
       "source": "https://en.wikipedia.org/wiki/Spherical_Earth#Appearance_of_the_Moon"
+    },
+
+    {
+      "id": "012",
+      "title": "Equinox",
+      "description": "the sun passes over the equator twice a year, resulting in direclty perpendicular shadows, which is only explainable with the globe model",
+      "source": "https://en.wikipedia.org/wiki/Equinox"
     }
   ] 
 }
