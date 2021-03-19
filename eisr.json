@@ -3,67 +3,78 @@
     {
       "id": "001",
       "title": "The Horizon",
-      "description": "there is horizon, which is an apparent line that separates earth from sky."
+      "description": "there is horizon, which is an apparent line that separates earth from sky.",
+      "source":
     },
     
     {
       "id": "002",
       "title": "The Shadow",
-      "description": "shadow falls in different sides of the earth are of different angle, from which its possible to measure the curvature of the globe."
+      "description": "shadow falls in different sides of the earth are of different angle, from which its possible to measure the curvature of the globe.",
+      "source":
     },
     
     {
       "id": "003",
       "title": "Other Planets and Stars",
-      "description": "all other planets and stars in visible space are round."
+      "description": "all other planets and stars in visible space are round.",
+      "source":   
     },
 
     {
       "id": "004",
       "title": "Timezones",
-      "description": "the time is different at different places on earth."
+      "description": "the time is different at different places on earth.",
+      "source":
     },
 
     {
       "id": "005",
       "title": "Non-Euclidean Geometry",
-      "description": "the geometry based on plane doesn't apply on big scale due to roundness of earth."
+      "description": "the geometry based on plane doesn't apply on big scale due to roundness of earth.",
+      "source":
     },
    
     {
       "id": "006",
       "title": "Lunar Eclipse",
-      "description": "when a lunar eclipse occurs, its visible on the moon that the shadow of earth is curved."
+      "description": "when a lunar eclipse occurs, its visible on the moon that the shadow of earth is curved.",
+      "source":
     },
 
     {
       "id": "007",
       "title": "The Coriolis Effect",
-      "description": "freely moving phenomenons like floating water and hurricane winds are deflecting to the right on the north of the equator, while its reverse on the south of it."
+      "description": "freely moving phenomenons like floating water and hurricane winds are deflecting to the right on the north of the equator, while its reverse on the south of it.",
+      "source":
     },
 
     {
       "id": "008",
       "title": "Position of Stars",
-      "description": "the stars on the sky look reverse in north and south latitudes."
+      "description": "the stars on the sky look reverse in north and south latitudes.",
+      "source":
     },
     
     {
       "id": "009",
       "title": "Increasing Sight by Elevation",
-      "description": "You can see farther if you go higher. You'd be able to see the same distance no matter your elevation is if the Earth was flat."
+      "description": "You can see farther if you go higher. You'd be able to see the same distance no matter your elevation is if the Earth was flat.",
+      "source":
     },
 
     {
       "id": "010",
       "title": "Real Life Footage",
-      "description": "Many different space agencies worldwide took photos of earth independent from each other."
+      "description": "Many different space agencies worldwide took photos of earth independent from each other.",
+      "source":
     },
 
     {
       "id": "011",
       "title": "Face of The Moon",
-      "description": "only one face of the moon is visible to every part of the earth, which is only explainable with the globe model."
+      "description": "only one face of the moon is visible to every part of the earth, which is only explainable with the globe model.",
+      "source":
     }
   ] 
 }
