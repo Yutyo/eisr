@@ -1,6 +1,5 @@
-# eisr.json
+# eisr
 A composition of all proof that earth is round.
 
-## License
-
-[FDL 1.3](https://www.gnu.org/licenses/fdl-1.3.html)
+## Licenses
+All scripts are shared under [LGPL 3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html), and all info under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
