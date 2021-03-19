@@ -79,9 +79,23 @@
 
     {
       "id": "012",
-      "title": "Equinox",
+      "title": "The Equinox",
       "description": "the sun passes over the equator twice a year, resulting in direclty perpendicular shadows, which is only explainable with the globe model",
       "source": "https://en.wikipedia.org/wiki/Equinox"
+    },
+
+    {
+      "id": "013",
+      "title": "The Solstice",
+      "description": "the sun passes over the north and south poles twice a year, resulting in the longest days in the year, which is only explainable with the globe model",
+      "source": "https://en.wikipedia.org/wiki/Solstice"
+    },
+
+    {
+      "id": "014",
+      "title": "Seasons",
+      "description": "temperature changes on earth called seasons happen due to change of Earth's distance to sun, which is a result of Elliptical Earth Orbit, which requires globe Earth.",
+      "source": "https://en.wikipedia.org/wiki/Season#Elliptical_Earth_orbit"
     }
   ] 
 }
