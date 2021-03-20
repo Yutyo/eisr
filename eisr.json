@@ -1,119 +1,119 @@
 {
   "proof": [
     {
-      "id": "001",
+      "id": "1",
       "title": "The Horizon",
       "description": "there is horizon, which is an apparent line that separates earth from sky.",
       "source": "https://en.wikipedia.org/wiki/Horizon"
     },
     
     {
-      "id": "002",
+      "id": "2",
       "title": "The Shadow",
       "description": "shadow falls in different sides of the earth are of different angle, from which its possible to measure the curvature of the globe.",
       "source": "https://en.wikipedia.org/wiki/Shadow"
     },
     
     {
-      "id": "003",
+      "id": "3",
       "title": "Other Planets and Stars",
       "description": "all other planets and stars in visible space are round.",
       "source": "https://en.wikipedia.org/wiki/Spherical_Earth#Shapes_of_other_bodies"  
     },
 
     {
-      "id": "004",
+      "id": "4",
       "title": "Time zones",
       "description": "the time is different at different places on earth.",
       "source": "https://en.wikipedia.org/wiki/Time_zone"
     },
 
     {
-      "id": "005",
+      "id": "5",
       "title": "Non-Euclidean Geometry",
       "description": "the geometry based on plane doesn't apply on big scale due to roundness of earth.",
       "source": "https://en.wikipedia.org/wiki/Non-Euclidean_geometry"
     },
    
     {
-      "id": "006",
+      "id": "6",
       "title": "Lunar Eclipse",
       "description": "when a lunar eclipse occurs, its visible on the moon that the shadow of earth is curved.",
       "source": "https://en.wikipedia.org/wiki/Spherical_Earth#Lunar_eclipses"
     },
 
     {
-      "id": "007",
+      "id": "7",
       "title": "The Coriolis Effect",
       "description": "freely moving phenomenons like floating water and hurricane winds are deflecting to the right on the north of the equator, while its reverse on the south of it.",
       "source": "https://en.wikipedia.org/wiki/Coriolis_force"
     },
 
     {
-      "id": "008",
+      "id": "8",
       "title": "Position of Stars",
       "description": "the stars on the sky look reverse in northern and southern hemispheres.",
       "source": "https://en.wikipedia.org/wiki/Spherical_Earth#Observation_of_constellations_on_North_and_South_hemispheres_at_different_seasons"
     },
     
     {
-      "id": "009",
+      "id": "9",
       "title": "Increasing Sight by Elevation",
       "description": "you can see farther if you go higher. You'd be able to see the same distance no matter your elevation is if the Earth was flat.",
       "source": "https://en.wikipedia.org/wiki/Spherical_Earth#Visibility_of_distant_objects_on_Earth's_surface"
     },
 
     {
-      "id": "010",
+      "id": "10",
       "title": "Real Life Footage",
       "description": "many different space agencies worldwide took photos of earth independent from each other.",
       "source": "https://commons.wikimedia.org/wiki/Earth"
     },
 
     {
-      "id": "011",
+      "id": "11",
       "title": "Face of The Moon",
       "description": "only one face of the moon is visible to every part of the earth, which is only explainable with the globe model.",
       "source": "https://en.wikipedia.org/wiki/Spherical_Earth#Appearance_of_the_Moon"
     },
 
     {
-      "id": "012",
+      "id": "12",
       "title": "The Equinox",
       "description": "the sun passes over the equator twice a year, resulting in direclty perpendicular shadows, which is only explainable with the globe model",
       "source": "https://en.wikipedia.org/wiki/Equinox"
     },
 
     {
-      "id": "013",
+      "id": "13",
       "title": "The Solstice",
       "description": "the sun passes over the north and south poles twice a year, resulting in the longest days in the year, which is only explainable with the globe model",
       "source": "https://en.wikipedia.org/wiki/Solstice"
     },
 
     {
-      "id": "014",
+      "id": "14",
       "title": "The Seasons",
       "description": "temperature changes on earth called seasons happen due to change of Earth's distance to sun, which is a result of Elliptical Earth Orbit, which requires globe Earth.",
       "source": "https://en.wikipedia.org/wiki/Season#Elliptical_Earth_orbit"
     },
 
     {
-      "id": "015",
+      "id": "15",
       "title": "The Elliptical Orbit",
       "description": "the Earth is on an elliptical orbit which can be justified with laws of Keppler and many phenomeons like seasons, different timezones etc., that are only possible with the globe Earth model.",
       "source": "https://en.wikipedia.org/wiki/Elliptic_orbit"
     },
 
     {
-      "id": "016",
+      "id": "16",
       "title": "The Grid Distortion",
       "description": "Flat Earth map are distorted from focus to extremities of the plane depending on where is based for creation of the map, while there is no distortion problem on the globe model.",
       "source": "https://en.wikipedia.org/wiki/Spherical_Earth#Grid_distortion_on_a_spherical_surface"
     },
 
     {
-      "id": "017",
+      "id": "17",
       "title": "The Atmospheric Refraction",
       "description": "Twinkling or scintillation occurs on any object (Moon or Sun) as they rise or set over the atmosphere, which is due to curvature of Earth.",
       "source": "https://en.wikipedia.org/wiki/Spherical_Earth#Grid_distortion_on_a_spherical_surface"
